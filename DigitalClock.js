@@ -54,7 +54,7 @@ function clock(){
     }
     else if(mm==8)
     {
-        mo="Spe"
+        mo="Sep"
     }
     else if(mm==9)
     {
